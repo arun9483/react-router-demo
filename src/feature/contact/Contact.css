@@ -1,0 +1,9 @@
+.contact-details {
+  background-color: blue;
+  margin-bottom: 2px;
+}
+
+.contact-details span {
+  background-color: aliceblue;
+  cursor: pointer;
+}
